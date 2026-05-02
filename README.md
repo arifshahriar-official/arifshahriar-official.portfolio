@@ -31,8 +31,6 @@ Skills: C / C++ / JAVA / DSA / Arduino Programming / Basic Debugging / Presentat
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifshahriar-official)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arifshahriar-official&show_icons=true&count_private=true)  
-
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/arifshahriar-official/contributions?format=svg&private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/arifshahriar-official)  
