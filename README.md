@@ -29,9 +29,7 @@ Skills: C / C++ / JAVA / DSA / Arduino Programming / Basic Debugging / Presentat
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=arifshahriar-official)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifshahriar-official)](https://github.com/anuraghazra/github-readme-stats)
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/arifshahriar-official/contributions?format=svg&private=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifshahriar-official)](https://github.com/anuraghazra/github-readme-stats) 
 
 ![GitHub metrics](https://metrics.lecoq.io/arifshahriar-official)  
 
